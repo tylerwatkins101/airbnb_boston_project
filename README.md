@@ -1,4 +1,4 @@
-# airbnb_boston_project
+# Airbnb Boston Project
 
 ### Installations
 python 3
