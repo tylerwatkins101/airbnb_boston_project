@@ -1,14 +1,15 @@
 # Airbnb Boston Project
 
 ### Installations
-python 3
-numpy
-pandas
-scipy
-matplotlib
-seaborn
-sklearn
-xgboost
+
+- python 3
+- numpy
+- pandas
+- scipy
+- matplotlib
+- seaborn
+- sklearn
+- xgboost
 
 ### Project Motivation
 To explore Airbnb data in Boston and write a blog post helping potential Airbnb hosts to understand the factors affecting how much money they could potentially make.
