@@ -14,7 +14,7 @@
 ### Project Motivation
 To explore Airbnb data in Boston and write a blog post helping potential Airbnb hosts to understand the factors affecting how much money they could potentially make.
 
-Blog post found here: https://medium.com/@tylerwatkins101/how-much-money-can-i-make-renting-on-airbnb-c59853b1b298
+Blog post found [here](https://medium.com/@tylerwatkins101/how-much-money-can-i-make-renting-on-airbnb-c59853b1b298)
 
 ### Files
 
